@@ -2,6 +2,7 @@
 
 ## Arquitectura de Computadoras
 **Alumno:** Jose Israel Canche Tamayo 
+
 **Semestre y grupo:** 5B  
 **Materia:** Arquitectura de Computadoras  
 **Docente:** Gabriel Ubaldo González Cauich  
@@ -41,7 +42,7 @@ También me sirve para analizar los errores que tuve en las prácticas y ejercic
 ## Descripción de la actividad
 Fue la primera actividad que hicimos en la materia y sirvió para medir qué tanto sabíamos antes de empezar de lleno con los temas.
 
-Venían preguntas sobre el uso de registros (de 8, 32 y 64 bits), las generaciones de las computadoras, leyes importantes como la de Moore, Amdahl y Dennard, además de algunos procesadores conocidos y conceptos generales de hardware.
+En esta actividad diagnostica, entendimos cuál fue el primer microprocesador que se incorpora, aprendimos sobre los transistores, la ley de Moore, los registros y las tecnologías utilizadas en la primera generación de computadores.
 
 ## Evidencia
 
@@ -54,9 +55,7 @@ Recordé varios conceptos básicos, pero también me di cuenta de que necesitaba
 También me permitió tener una idea de los temas que se trabajarían posteriormente durante la unidad.
 
 ## Errores y aspectos por mejorar
-Al ser una prueba rápida, me di cuenta de que a veces me confundía con algunos términos teóricos de la arquitectura de computadoras.
-
-No debo aprenderme las definiciones de memoria. Es mejor intentar comprender para qué sirve cada componente dentro del sistema y cómo se conecta con lo demás.
+Al ser una diagnostica, me di cuenta sobre algunos conceptos en específico que yo desconocía, me di cuenta que aún no los tenía claros los que se relacionan con la arquitectura de computadores. 
 
 ---
 
@@ -111,9 +110,11 @@ También agregué cómo se conectan los elementos internos como la CPU, la Unida
 ![Mapa conceptual](RubricaMapa2.jpeg)
 
 ## ¿Qué aprendí?
-Hacer el mapa me ayudó muchísimo a conectar los puntos. Antes veía la CPU, los registros o la memoria como temas separados, pero al acomodarlos visualmente entendí cómo trabajan juntos en el ciclo de instrucciones.
+Hacer el mapa conceptual me ayudó a organizar mejor los conceptos y entenderlos de una formas mas visual. También pude ver como se relacionan entre sí los diferentes elementos de la arquitectura de una computadora. 
 
-Además, comprendí que no hay una arquitectura "perfecta", sino que cada modelo tiene sus ventajas según lo que se necesite hacer.
+Antes conocía algunos conceptos por separado, pero al hacer el mapa tuve que pensar en cómo se conectaban unos con otros. Por ejemplo, pude relacionar la CPU con la unidad de control, la ALU y los registros, y así entender mejor cómo trabajan juntos.
+
+También comprendí mejor cómo funcionan los diferentes modelos de arquitectura que vimos, y que cada uno tiene características diferentes. Además, aprendí que dependiendo de cómo se utilicen, pueden tener sus propias ventajas y desventajas.
 
 ## Errores y aspectos por mejorar
 Mi mayor reto fue no saturar el mapa con tanto texto y lograr que las relaciones entre conceptos principales y secundarios se entendieran a la primera.
@@ -150,7 +151,7 @@ Para mejorar: En las siguientes prácticas en laboratorio, primero voy a revisar
 # Reflexión general de la unidad
 Esta primera unidad me sirvió bastante para unir la teoría con la práctica. Pasar de las preguntas del diagnóstico a la lógica de la IAS, luego a la organización del mapa conceptual y finalmente a conectar cables en la protoboard con la RAM 6116 hizo que las cosas cobraran mucho más sentido.
 
-La lección más grande que me llevo no es solo cómo funciona una memoria, sino la importancia de ser metódica. En la práctica con el chip 6116 me di cuenta de que no sirve de nada intentar hacer las cosas "a ojo"; hay que entender el diagrama y saber qué función cumple cada parte.
+La lección más grande que me llevo no es solo cómo funciona una memoria, sino la importancia de ser metódica. En la práctica con el chip 6116 me di cuenta de que no sirve de nada intentar hacer las cosas "a ojo", hay que entender el diagrama y saber qué función cumple cada parte.
 
 Los errores que cometimos durante las actividades terminaron siendo de bastante ayuda, porque al buscar cómo solucionarlos fue cuando realmente entendí el tema.
 
