@@ -131,7 +131,14 @@ Montamos un circuito físico en protoboard utilizando un chip de memoria RAM est
 Utilizamos componentes como la memoria 6116, protoboard, microswitches, botones, un display de 7 segmentos, resistencias, LEDs, integrados auxiliares y bastante cable de conexión.
 
 ## Evidencia
-
+![Practica](RAM.jpg)
+![Practica](RAM1.jpg)
+![Practica](RAM2.jpg)
+![Practica](RAM3.jpg)
+![Practica](RAM4.jpg)
+![Practica](RAM5.jpg)
+![Practica](RAM6.jpg)
+![Practica](RAM7.jpg)
 [Ver reporte de la práctica de RAM 6116](ReporteRAM6116.pdf)
 ![Mapa conceptual](Rubrica.jpeg)
 ![Mapa conceptual](Rubrica2.jpeg)
