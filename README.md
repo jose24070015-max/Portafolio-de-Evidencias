@@ -140,8 +140,6 @@ Utilizamos componentes como la memoria 6116, protoboard, microswitches, botones,
 ![Practica](RAM6.jpg)
 ![Practica](RAM7.jpg)
 [Ver reporte de la práctica de RAM 6116](ReporteRAM6116.pdf)
-![Mapa conceptual](Rubrica.jpeg)
-![Mapa conceptual](Rubrica2.jpeg)
 
 ## ¿Qué aprendí?
 Esta práctica fue clave para entender cómo se escriben y leen los datos en la vida real y no solo en la libreta.
